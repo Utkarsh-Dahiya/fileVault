@@ -32,13 +32,15 @@
 
 ## 🖥️ Preview
 
-> Run the app locally and take a screenshot here — or record a short Loom/GIF
+> Run the app locally and take a screenshot here — or record a short Loom/GI
+> 
 
-```
-[Add your screenshot here]
-```
+https://github.com/user-attachments/assets/3bbc4098-4128-40a4-b482-ac1f31603b89
 
----
+
+
+
+
 
 ## 🚀 Getting Started
 
